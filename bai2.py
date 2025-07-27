@@ -18,7 +18,8 @@ for x in a:
         le+=1
 print("Các số lẻ là:", so_le,"số lẻ",le)
 tong=sum(a)
-print("tổng các phần tử là",tong)
+print("Tổng các phần tử là",tong)
+print("Hoc bai")
 import math
 tich=math.prod(a)
 print("tích các phần tử là",tich)
